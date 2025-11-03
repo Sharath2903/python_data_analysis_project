@@ -82,7 +82,7 @@ for i, job_title in enumerate(job_titles):
 plt.show()
 ```
 
-### Results
+ Results
 
 ![Likelihood of Skills Requested in the US Job Postings](https://github.com/Sharath2903/python_data_analysis_project/blob/main/Likelihood_of_Skills_Requested_in_US_Job_Postings.png)
 
